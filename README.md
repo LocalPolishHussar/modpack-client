@@ -101,7 +101,7 @@
 - [spark](https://modrinth.com/project/spark) `1.10.124-neoforge-1.21.1`
 - [Stony Cliffs Are Cool](https://modrinth.com/project/stony-cliffs-are-cool) `1.1.2`
 - [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.12.8`
-- [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.9`
+- [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.10`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.1`
 - [Teal Lib](https://modrinth.com/project/teallib) `1.3.teal`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.26-neoforge-21.1`
