@@ -1,24 +1,17 @@
 # 1.0 server
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 105 mods, 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.248**, 87 mods, 4 resource packs
 
 ## Contents
 
-- [AI Improvements](https://modrinth.com/project/ai-improvements) `0.5.3`
 - [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.2.0`
-- AllTheLeaks (Memory Leak Fix) `alltheleaks-1.1.12+1.21.1-neoforge.jar` (curseforge)
-- [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.7`
-- [Anvil Restoration](https://modrinth.com/project/anvil-restoration) `1.21.1-2.4-fabric+forge+neo`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [Backported Spears](https://modrinth.com/project/backported-spears) `1.8.0`
 - [Barehanded](https://modrinth.com/project/barehanded) `1.6.6`
-- [Better Days](https://modrinth.com/project/betterdays) `1.21.1-3.3.6.3-NEOFORGE`
-- [Better Safe Bed](https://modrinth.com/project/better-safe-bed) `1.21-16`
 - [Big Brain](https://modrinth.com/project/big-brain) `2.2.7`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
-- [Biome Cleaner](https://modrinth.com/project/biome-cleaner) `1.1.8`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.1.1`
 - [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
 - [Burnt Basic](https://modrinth.com/project/burnt-basic) `1.10.4.2`
@@ -58,12 +51,9 @@
 - [Frequency Create](https://modrinth.com/project/frequency-create) `0.2.0`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.12`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.12+1.21.1-neoforge`
-- [Immersive Optimization](https://modrinth.com/project/immersive-optimization) `0.2.0+1.21.1`
 - [Incubation](https://modrinth.com/project/incubation) `5.0.2`
-- [Ksyxis](https://modrinth.com/project/ksyxis) `1.4.3`
 - [Lamb Lanterns](https://modrinth.com/project/lamb-lanterns) `1.2.0`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.10+1.21.1`
-- [Leaves Be Gone](https://modrinth.com/project/leaves-be-gone) `v21.1.1-1.21.1-NeoForge`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0+beta4-neoforge-21.1`
@@ -80,31 +70,23 @@
 - [Polytone](https://modrinth.com/project/polytone) `1.21-4.0.1`
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `v21.1.52-1.21.1-NeoForge`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
-- [Ready Player Fun](https://modrinth.com/project/ready-player-fun) `1.21.1-3.0.1.5-NEOFORGE`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.3.2-1.21.1-neoforge`
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.0-1.21.1-neoforge`
-- [Respawning Animals](https://modrinth.com/project/respawning-animals) `v21.1.2-1.21.1-NeoForge`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
 - [Sable](https://modrinth.com/project/sable) `2.0.5+mc1.21.1`
 - [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.3.0`
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.5`
-- [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
 - [Shield Expansion](https://modrinth.com/project/shield-expansion) `1.4.1`
 - Signal Flares `signal_flares-2.0.1-neoforge-1.21.1.jar` (curseforge)
-- [Simple Rich Discord Presence](https://modrinth.com/project/srdp) `88.0.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.22`
-- [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.10.0+1.21-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-beta.2-neoforge`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.1`
 - [Sound Physics: Aeronautics](https://modrinth.com/project/sound-physics-aeronautics) `1.3.0.2`
-- [spark](https://modrinth.com/project/spark) `1.10.124-neoforge-1.21.1`
-- [Stony Cliffs Are Cool](https://modrinth.com/project/stony-cliffs-are-cool) `1.1.2`
 - [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.12.8`
-- [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.9`
+- [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.10`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.1`
 - [Teal Lib](https://modrinth.com/project/teallib) `1.3.teal`
-- [Tectonic](https://modrinth.com/project/tectonic) `3.0.26-neoforge-21.1`
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`
 - [TooManyRecipeViewers](https://modrinth.com/project/tmrv) `0.9.0+mc.21.1`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`

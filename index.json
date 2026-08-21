@@ -1,28 +1,12 @@
 {
   "files": [
     {
-      "path": "content/mods/ai-improvements.json",
-      "sha1": "496a19c47957aafff0d017c3085e07c47b626355"
-    },
-    {
-      "path": "content/mods/alltheleaks.json",
-      "sha1": "7a7c870aa5cd3917a46dcb53e8d311d8e9836020"
-    },
-    {
       "path": "content/mods/alltuttasneeds.json",
       "sha1": "99e437c7e25e80f1adecae1c5726e027711ba815"
     },
     {
-      "path": "content/mods/alternate-current.json",
-      "sha1": "9da02df59ff0c75fa5e0f5b3882703e9b5187c9f"
-    },
-    {
       "path": "content/mods/amendments.json",
       "sha1": "72aef9c6d712ade7b9ee8c34c48174fc3781b9c1"
-    },
-    {
-      "path": "content/mods/anvil-restoration.json",
-      "sha1": "8f710fb4d5e43ee2d697db3908875b7c2428d2a7"
     },
     {
       "path": "content/mods/appleskin.json",
@@ -30,7 +14,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "537c145f377c5063061995b9bf55c49020779332"
+      "sha1": "4c94aa358dc730c1d7af2e97122b2de01b60777c"
     },
     {
       "path": "content/mods/backported-spears.json",
@@ -41,24 +25,12 @@
       "sha1": "2d93bfc949669018dba3bd58abe433b20dfa9cea"
     },
     {
-      "path": "content/mods/better-safe-bed.json",
-      "sha1": "30721f931379ed5ed90bbe7363614f544cd4e1be"
-    },
-    {
-      "path": "content/mods/betterdays.json",
-      "sha1": "a71eb0c24bb48704449bca9f9b0aac883eb98b24"
-    },
-    {
       "path": "content/mods/big-brain.json",
       "sha1": "3a3d0cd6d7e908866567fd6cc552c6eea0cf230a"
     },
     {
       "path": "content/mods/biolith.json",
       "sha1": "222c22379d97a81fb12e9acb7bd49a700a9a0b14"
-    },
-    {
-      "path": "content/mods/biome-cleaner.json",
-      "sha1": "b284c66d926a81818261aeb2c625a8d3d9c77f08"
     },
     {
       "path": "content/mods/blueprint.json",
@@ -86,7 +58,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "3159d1eaa95bc3d0cd1c0800169ed14b64b48b90"
+      "sha1": "94eaacf7fc6bdd575e9789b53a234ca6ffed15e6"
     },
     {
       "path": "content/mods/clumps.json",
@@ -98,7 +70,7 @@
     },
     {
       "path": "content/mods/collective.json",
-      "sha1": "77d4e803ec2674d397b670bbc11600d6a0ad2ada"
+      "sha1": "33b548c22633649cd1a8a78bda5eeb1dd8920c3d"
     },
     {
       "path": "content/mods/combat-nouveau.json",
@@ -205,16 +177,8 @@
       "sha1": "2e891fc84fa2516404dec087af48efcb4898c49f"
     },
     {
-      "path": "content/mods/immersive-optimization.json",
-      "sha1": "ef0379bb6e0f8a224626c5c67570d61e03704a21"
-    },
-    {
       "path": "content/mods/incubation.json",
       "sha1": "ca24c51ef2dbc778feaa1a7afb16612a3151b224"
-    },
-    {
-      "path": "content/mods/ksyxis.json",
-      "sha1": "fc1615cbb30c5cd1380d100ff9664783d7c3d140"
     },
     {
       "path": "content/mods/lamb-lanterns.json",
@@ -223,10 +187,6 @@
     {
       "path": "content/mods/lambdynamiclights.json",
       "sha1": "2d592510c2c6e30c9e1326c317801610d1307a3f"
-    },
-    {
-      "path": "content/mods/leaves-be-gone.json",
-      "sha1": "72fddc4b9c130d33aae4680c336d2b37f49a8932"
     },
     {
       "path": "content/mods/lever-drugster.json",
@@ -238,7 +198,7 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "eca3a8285c7768e5868cd5e81818bc1537a5c5e6"
+      "sha1": "769d2d33e0ca0ef7b8eb22aef7f067bdb5544196"
     },
     {
       "path": "content/mods/manual-labour.json",
@@ -286,15 +246,11 @@
     },
     {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "d819b42083bd43784510c9cddf2058561cffa816"
+      "sha1": "7137c855d96302837a78b2ef27fe525b386b85f9"
     },
     {
       "path": "content/mods/ragdoll-reactions.json",
       "sha1": "7898c5a6d4f8963188b70676f0025e14e17b6c5f"
-    },
-    {
-      "path": "content/mods/ready-player-fun.json",
-      "sha1": "9b5d6019a75b6375251fd8594ed70a1af3215954"
     },
     {
       "path": "content/mods/reconnectible-chains.json",
@@ -303,10 +259,6 @@
     {
       "path": "content/mods/reliable-backpacks.json",
       "sha1": "a993ce8a14c5188ad493e6c0c8c6e9e0a9f33956"
-    },
-    {
-      "path": "content/mods/respawning-animals.json",
-      "sha1": "3e2c73498fb807efac727b49be3e27dad6feda6c"
     },
     {
       "path": "content/mods/rpl.json",
@@ -329,10 +281,6 @@
       "sha1": "6db13a9324c2a5e58434fd3f72ce24e9401c222c"
     },
     {
-      "path": "content/mods/servercore.json",
-      "sha1": "2328497721535ee60efb4fd934e0d868e54620d6"
-    },
-    {
       "path": "content/mods/shield-expansion.json",
       "sha1": "864bbdbac547332aa86ea718e783ac76b6f973e7"
     },
@@ -343,10 +291,6 @@
     {
       "path": "content/mods/simple-voice-chat.json",
       "sha1": "546f05c36d79c34df00c0c199c49ba47fcef8826"
-    },
-    {
-      "path": "content/mods/skinrestorer.json",
-      "sha1": "9824c2cc84004ccf48e63992c4dea18df033f250"
     },
     {
       "path": "content/mods/sodium.json",
@@ -361,18 +305,6 @@
       "sha1": "65a7d4e2bce539cc5d15a06bf21423861b26733c"
     },
     {
-      "path": "content/mods/spark.json",
-      "sha1": "b879eaeff51979bf2cb0754458f163c4abd5d783"
-    },
-    {
-      "path": "content/mods/srdp.json",
-      "sha1": "4d68fc357f1bc66e47c180c955be06293039d81d"
-    },
-    {
-      "path": "content/mods/stony-cliffs-are-cool.json",
-      "sha1": "ebdc8ab4aaf57201bfcb244def5e301130b64d58"
-    },
-    {
       "path": "content/mods/streams-reflowing.json",
       "sha1": "359a27f20791addee319a9d63324c9fd5a3cf733"
     },
@@ -383,10 +315,6 @@
     {
       "path": "content/mods/teallib.json",
       "sha1": "1eba6ad09d3d134272ebe040f1dd2c174f5a7ef4"
-    },
-    {
-      "path": "content/mods/tectonic.json",
-      "sha1": "d1acf480548226d67460fbd5d8ccb5de6aacac36"
     },
     {
       "path": "content/mods/the-block-box.json",
@@ -434,7 +362,7 @@
     },
     {
       "path": "content/resourcepacks/sunbathing-godrays.json",
-      "sha1": "59c88f63ebc94daf72440ac863e3735446350ab7"
+      "sha1": "b8e832188fdbab4990d442befa2ad2400c45cd86"
     },
     {
       "path": "overrides/.analogaudio/internal/analogplayer-1.0.2.jar",
