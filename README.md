@@ -1,6 +1,6 @@
 # 1.0 server
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 105 mods, 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.248**, 95 mods, 4 resource packs
 
 ## Contents
 
@@ -42,11 +42,9 @@
 - [Create: Warnautics](https://modrinth.com/project/create-warnautics) `1.0.3`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.2.2.2`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
-- [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Dashpanels](https://modrinth.com/project/dashpanels) `2.1+neoforge1.21.1`
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.2.0-b-1.21.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
-- [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Envelope](https://modrinth.com/project/envelope) `0.7.5`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.18`
 - [F708 Guns](https://modrinth.com/project/f708-gun-mod) `1.5.4.2`
@@ -57,12 +55,10 @@
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Frequency Create](https://modrinth.com/project/frequency-create) `0.2.0`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.12`
-- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.12+1.21.1-neoforge`
 - [Immersive Optimization](https://modrinth.com/project/immersive-optimization) `0.2.0+1.21.1`
 - [Incubation](https://modrinth.com/project/incubation) `5.0.2`
 - [Ksyxis](https://modrinth.com/project/ksyxis) `1.4.3`
 - [Lamb Lanterns](https://modrinth.com/project/lamb-lanterns) `1.2.0`
-- [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.10+1.21.1`
 - [Leaves Be Gone](https://modrinth.com/project/leaves-be-gone) `v21.1.1-1.21.1-NeoForge`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
@@ -70,14 +66,11 @@
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.3.1-1.21.1`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.20+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.4.1`
-- [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
 - [Oreganized](https://modrinth.com/project/oreganized) `5.1.2`
-- [Particle Rain](https://modrinth.com/project/particle-rain) `v4-beta.10+1.21.1-neoforge`
 - [Peaceless](https://modrinth.com/project/peaceless) `1.0`
 - [Personality](https://modrinth.com/project/personality!) `5.0.2`
-- [Polytone](https://modrinth.com/project/polytone) `1.21-4.0.1`
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `v21.1.52-1.21.1-NeoForge`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Ready Player Fun](https://modrinth.com/project/ready-player-fun) `1.21.1-3.0.1.5-NEOFORGE`
@@ -92,10 +85,8 @@
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
 - [Shield Expansion](https://modrinth.com/project/shield-expansion) `1.4.1`
 - Signal Flares `signal_flares-2.0.1-neoforge-1.21.1.jar` (curseforge)
-- [Simple Rich Discord Presence](https://modrinth.com/project/srdp) `88.0.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.22`
 - [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.10.0+1.21-neoforge`
-- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-beta.2-neoforge`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.1`
 - [Sound Physics: Aeronautics](https://modrinth.com/project/sound-physics-aeronautics) `1.3.0.2`
 - [spark](https://modrinth.com/project/spark) `1.10.124-neoforge-1.21.1`
@@ -108,7 +99,6 @@
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`
 - [TooManyRecipeViewers](https://modrinth.com/project/tmrv) `0.9.0+mc.21.1`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
-- [True Darkness Biomes](https://modrinth.com/project/true-darkness-biomes) `1.2.1`
 - [Vercte's Satchels](https://modrinth.com/project/vercte-satchels) `1.2.0`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.4.4`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`

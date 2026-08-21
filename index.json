@@ -30,7 +30,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "537c145f377c5063061995b9bf55c49020779332"
+      "sha1": "4c94aa358dc730c1d7af2e97122b2de01b60777c"
     },
     {
       "path": "content/mods/backported-spears.json",
@@ -86,7 +86,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "3159d1eaa95bc3d0cd1c0800169ed14b64b48b90"
+      "sha1": "94eaacf7fc6bdd575e9789b53a234ca6ffed15e6"
     },
     {
       "path": "content/mods/clumps.json",
@@ -153,10 +153,6 @@
       "sha1": "ebcaa34f890c53b29967ba941fbeeb5dc786ca3f"
     },
     {
-      "path": "content/mods/cut-through.json",
-      "sha1": "d57f5628fc34c52824a33ed6cb7ecc26386d13b8"
-    },
-    {
       "path": "content/mods/dashpanels.json",
       "sha1": "910c0f2929714fe98def25ad840d70bae90ee5e9"
     },
@@ -167,10 +163,6 @@
     {
       "path": "content/mods/emi.json",
       "sha1": "869a3c44660ae6b1ae4cf441c3fd8f9f5feadd38"
-    },
-    {
-      "path": "content/mods/entityculling.json",
-      "sha1": "ad43232487c3442c2992f7fe5cbdcebe8324b6b4"
     },
     {
       "path": "content/mods/envelope.json",
@@ -201,10 +193,6 @@
       "sha1": "61786c9426c7bd151e7baf7e40be2402ae266af8"
     },
     {
-      "path": "content/mods/immediatelyfast.json",
-      "sha1": "2e891fc84fa2516404dec087af48efcb4898c49f"
-    },
-    {
       "path": "content/mods/immersive-optimization.json",
       "sha1": "ef0379bb6e0f8a224626c5c67570d61e03704a21"
     },
@@ -219,10 +207,6 @@
     {
       "path": "content/mods/lamb-lanterns.json",
       "sha1": "d66dd9b763cf2498b67bbdc061d80d123d95baed"
-    },
-    {
-      "path": "content/mods/lambdynamiclights.json",
-      "sha1": "2d592510c2c6e30c9e1326c317801610d1307a3f"
     },
     {
       "path": "content/mods/leaves-be-gone.json",
@@ -253,10 +237,6 @@
       "sha1": "8b0b04e20f0c00ccb9dc90b8e48dba5294960e83"
     },
     {
-      "path": "content/mods/mouse-tweaks.json",
-      "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
-    },
-    {
       "path": "content/mods/nirvana-mod.json",
       "sha1": "e059a49d597cf6c195b810c7fb14b312a1d81fad"
     },
@@ -269,10 +249,6 @@
       "sha1": "7e13751743cbc19f296a8acdb53d5f84f9f99d1c"
     },
     {
-      "path": "content/mods/particle-rain.json",
-      "sha1": "a214e0ec7a983c25324e34f9513072e7c554c3f6"
-    },
-    {
       "path": "content/mods/peaceless.json",
       "sha1": "62617254501468300ce9e4a5a282d44e78865801"
     },
@@ -281,12 +257,8 @@
       "sha1": "c145f682878310de7f7e25c5844b37fc26d6010b"
     },
     {
-      "path": "content/mods/polytone.json",
-      "sha1": "35f5e8c4a79ee863c16ce80664131173c27eccd4"
-    },
-    {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "d819b42083bd43784510c9cddf2058561cffa816"
+      "sha1": "9d7f4ff101b9f59f3960ba7bee318041c0639b39"
     },
     {
       "path": "content/mods/ragdoll-reactions.json",
@@ -349,10 +321,6 @@
       "sha1": "9824c2cc84004ccf48e63992c4dea18df033f250"
     },
     {
-      "path": "content/mods/sodium.json",
-      "sha1": "f81d817e2d295ffd6b83726541a6160ae8a3aafe"
-    },
-    {
       "path": "content/mods/sound-physics-aeronautics.json",
       "sha1": "13c0e4eacf6f4f0296ab6578fc3edd0c2a2fd902"
     },
@@ -363,10 +331,6 @@
     {
       "path": "content/mods/spark.json",
       "sha1": "b879eaeff51979bf2cb0754458f163c4abd5d783"
-    },
-    {
-      "path": "content/mods/srdp.json",
-      "sha1": "4d68fc357f1bc66e47c180c955be06293039d81d"
     },
     {
       "path": "content/mods/stony-cliffs-are-cool.json",
@@ -399,10 +363,6 @@
     {
       "path": "content/mods/tree-physics.json",
       "sha1": "1b223658d0554da7ff01b486c29bfe043eeb92fd"
-    },
-    {
-      "path": "content/mods/true-darkness-biomes.json",
-      "sha1": "4462b875c5b36427fb719b95a89cd0c777a09c6c"
     },
     {
       "path": "content/mods/vercte-satchels.json",
