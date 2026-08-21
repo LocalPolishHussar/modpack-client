@@ -1,0 +1,5 @@
+#When set to true, Create's Redstone Link frequencies will take all data components (NBT) of the two given items into account.
+#When set to false, they behave as they do in unmodified Create, only checking for item ID and the color component.
+#Note: Changing this requires a server restart to take effect.
+#Disabling this on a world where NBT-specific links are used will make them interfere with each other until re-enabled!
+isModEnabled = true

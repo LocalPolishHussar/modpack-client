@@ -1,0 +1,70 @@
+		[types.cake.nomansland]
+			fruit_cake = true
+
+		[types.wood_type.burnt]
+			smoldering_bamboo = true
+			burnt = true
+			smoldering = true
+			burnt_bamboo = true
+			ember = true
+			sooty_oak = true
+			sooty_dark_oak = true
+			sooty_spruce = true
+			sooty_birch = true
+			sooty_acacia = true
+			sooty_mangrove = true
+			sooty_cherry = true
+			sooty_jungle = true
+			blazing = true
+
+		[types.wood_type.nomansland]
+			pine = true
+			maple = true
+			walnut = true
+			willow = true
+
+		[types.leaves_type.burnt]
+			burnt = true
+			smoldering = true
+			smoldering_oak = true
+			smoldering_dark_oak = true
+			smoldering_spruce = true
+			smoldering_birch = true
+			smoldering_jungle = true
+			smoldering_mangrove = true
+			smoldering_cherry = true
+			smoldering_acacia = true
+			blast = true
+
+		[types.leaves_type.nomansland]
+			autumnal_oak = true
+			frosted = true
+			pale_cherry = true
+			red_maple = true
+			yellow_birch = true
+			pine = true
+			maple = true
+			walnut = true
+			willow = true
+			apple_fruit = true
+			pear_fruit = true
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.nomansland]
+			bookshelf = true
+			trimmed_planks = true
+
+		[entries.wood_type.another_furniture]
+			drawer = true
+			table = true
+			flower_box = true
+			shelf = true
+			shutter = true
+			bench = true
+			chair = true

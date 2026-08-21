@@ -1,0 +1,23 @@
+{
+  "name": "Create Furnace Lava Adapter",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TVhOvEMf",
+      "slug": "create-furnace-lava-adapter",
+      "versionId": "4UH6Mlq5",
+      "versionNumber": "1.7.0",
+      "filename": "create_furnace_lava_adapter-1.21.1-1.7.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TVhOvEMf/versions/4UH6Mlq5/create_furnace_lava_adapter-1.21.1-1.7.0.jar",
+      "sha1": "be0828d7c2191f7dbfb4c29187af2f12df1c45f5",
+      "sha512": "fd9e7925f85de857780125573a4864b4fb5db279fed423fe86571e6547965acf141774724f52a5cbc93e182d8f9f7ffc7300500ea4e123441db307bd79c92a8c",
+      "fileSize": 567930
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

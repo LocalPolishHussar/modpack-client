@@ -1,0 +1,23 @@
+{
+  "name": "Core Overhaul  - Exp Anvils Enchanting",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3thi3DZo",
+      "slug": "core-overhaul",
+      "versionId": "QDZYbaZj",
+      "versionNumber": "1.1.1",
+      "filename": "coreoverhaul-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3thi3DZo/versions/QDZYbaZj/coreoverhaul-1.1.1.jar",
+      "sha1": "aff66ed88ac6120c3c12e297f036ad8b90c09d28",
+      "sha512": "9e883df706484167f36007131b42f1f105b9a539a70f217b65c5504dc3c3cc5b5ba1e5afea0ee44fa7832dedccd1a83833cd5541f67ca190015fb60352188004",
+      "fileSize": 126193
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

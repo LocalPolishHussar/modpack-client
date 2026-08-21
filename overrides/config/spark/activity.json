@@ -1,0 +1,67 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "LocalPolishHusar",
+      "uniqueId": "a42846d4-21d7-3ede-b3af-bbe4d90f8327"
+    },
+    "time": 1786306595851,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/1LRQOuvTxp"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LocalPolishHusar",
+      "uniqueId": "a42846d4-21d7-3ede-b3af-bbe4d90f8327"
+    },
+    "time": 1786306533147,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/j3LkaQLYqM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LocalPolishHusar",
+      "uniqueId": "a42846d4-21d7-3ede-b3af-bbe4d90f8327"
+    },
+    "time": 1785420698841,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/6iiOC6b0nS"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LocalPolishHusar",
+      "uniqueId": "a42846d4-21d7-3ede-b3af-bbe4d90f8327"
+    },
+    "time": 1785417044713,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/3Grpc77mvi"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LocalPolishHusar",
+      "uniqueId": "a42846d4-21d7-3ede-b3af-bbe4d90f8327"
+    },
+    "time": 1785417013414,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/AezEGCGzbM"
+    }
+  }
+]

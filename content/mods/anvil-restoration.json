@@ -1,0 +1,23 @@
+{
+  "name": "Anvil Restoration",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bd8nwTGy",
+      "slug": "anvil-restoration",
+      "versionId": "s2Ff8GFL",
+      "versionNumber": "1.21.1-2.4-fabric+forge+neo",
+      "filename": "anvilrestoration-1.21.1-2.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bd8nwTGy/versions/s2Ff8GFL/anvilrestoration-1.21.1-2.4.jar",
+      "sha1": "13ff538b7b4bb6cfbf4a7596188bbc7bb8ee60f1",
+      "sha512": "2ca18c9fa3ff32ce5481bce87dec5c213fba81865eee34b7771f41dde877c5a916044fc4d4e013343feef394bb2391bbac30f0d4c9b929196223761c58598f1e",
+      "fileSize": 25077
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

@@ -1,0 +1,29 @@
+#Enables the hidden kill-based XP multiplier system.
+enableCustomXpSystem = true
+#Enables XP orbs from harvesting fully grown crops.
+enableFarmingXp = true
+#Enables XP orbs from successfully excavating suspicious blocks.
+enableArchaeologyXp = true
+#Enables the custom anvil repair rework.
+enableAnvilRework = true
+#Enables custom enchanting table power, radius, bonus blocks, and chiseled bookshelf book bias.
+enableEnchantmentRework = true
+#Allows Looting to be applied to additional weapons.
+#Requires restarting the server after changing.
+enableLootingAdditions = true
+#Allows carpets to be placed inside of occupied block spaces.
+enableCarpetPlacement = false
+#Allows item frames to be placed on accessible recessed or occupied block faces.
+enableInsetItemFrames = true
+#Base XP required for hidden level 1.
+# Default: 10
+# Range: 1 ~ 500
+hiddenXpLevelRequirement = 10
+#Maximum XP multiplier from the hidden XP system.
+# Default: 2.5
+# Range: 1.0 ~ 50.0
+xpMaxMultiplier = 2.5
+#Multiplier applied to hidden XP required per hidden level.
+# Default: 1.1
+# Range: 1.0 ~ 50.0
+hiddenXpLevelScale = 1.1

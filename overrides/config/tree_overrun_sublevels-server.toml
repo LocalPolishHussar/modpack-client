@@ -1,0 +1,52 @@
+enabled = true
+
+[impact]
+	# Default: 0.5
+	# Range: 0.1 ~ 64.0
+	minImpactSpeed = 0.5
+	# Default: 32.0
+	# Range: 0.01 ~ 4096.0
+	impactMassReference = 32.0
+	# Default: 20
+	# Range: 0 ~ 200
+	cooldownTicks = 20
+	inheritVehicleVelocity = true
+
+[treeDetection]
+	# Default: 12
+	# Range: 0 ~ 512
+	minTreeLeaves = 12
+	# Default: 16
+	# Range: 0 ~ 256
+	leavesPerLog = 16
+	# Default: 4096
+	# Range: 16 ~ 65536
+	maxTreeBlocks = 4096
+
+[debris]
+	# Default: 3
+	# Range: 1 ~ 64
+	chunkSize = 3
+	# Default: 12
+	# Range: 1 ~ 64
+	leafChunkSize = 12
+	# Default: 100
+	# Range: 1 ~ 100000
+	debrisDecayChanceDenominator = 100
+	# Default: 100
+	# Range: 0 ~ 100
+	debrisDropChance = 100
+
+[performance]
+	dropTreesAsItems = false
+	# Default: 200
+	# Range: 0 ~ 4096
+	maxActiveDebrisSubLevels = 200
+	# Default: 4
+	# Range: 1 ~ 64
+	maxAssemblyChunksPerTick = 4
+
+[world]
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	saplingReplantChance = 0.5

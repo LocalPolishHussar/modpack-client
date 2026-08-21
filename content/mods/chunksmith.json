@@ -1,0 +1,23 @@
+{
+  "name": "Chunksmith",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4BeAEBIb",
+      "slug": "chunksmith",
+      "versionId": "ebPO0Ao0",
+      "versionNumber": "3.4.1+1.21.1-neoforge",
+      "filename": "chunksmith-3.4.1+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4BeAEBIb/versions/ebPO0Ao0/chunksmith-3.4.1%2B1.21.1-neoforge.jar",
+      "sha1": "c23b4a188831b097697bb925b8efcfaa25077c10",
+      "sha512": "72cf021aedf57cf8a63836bcc9fdd86b9b60754a6d16f07093c62e4989453fc3d3aae43fe079f9fa8dcfbff4d7f232613705c88c2e410fce700c904ad0d0a5e4",
+      "fileSize": 557221
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}
